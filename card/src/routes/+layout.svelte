@@ -9,3 +9,5 @@
 </svelte:head>
 
 {@render children?.()}
+
+<!-- Hier komen de header en de footer als ik die ooit toepas op de website -->
