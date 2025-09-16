@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Kiwi Maru', serif;
+    src: url(../fonts/KiwiMaru-Light.ttf);
+}
+
+@font-face {
+    font-family: 'lexend';
+    src: url(../fonts/LexendExa-Light.ttf);
+}
+
+@font-face {
+    font-family: 'lexend_link';
+    src: url(../fonts/LexendExa-Medium.ttf);
+}
+
+ :root {
+   font-family: var(--kop_font);
+   font-family: var(--body_font);
+   font-family: var(--link_font);
+
+   --kop_font: 'Kiwi Maru', serif;
+   --body_font: 'lexend', Helvetica;
+   --link_font: 'lexend_link', Helvetica;
+}
+
+body{
+        background-color: #f0f0f0;
+    }
+
+h1, h2, h3 {
+    font-family: var(--kop_font);
+}
+
+a {
+    font-family: var(--link-font);
+}
+
+p{
+    font-family: var(--body_font);
+} 

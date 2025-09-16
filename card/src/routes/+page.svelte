@@ -1,5 +1,5 @@
 <script>
-	import Links from '$lib/components/Links.svelte';
+    import Links from '$lib/components/Links.svelte';
     /** @type {import('./$types').PageProps} */
     let { data } = $props();
     // console.log(data);
