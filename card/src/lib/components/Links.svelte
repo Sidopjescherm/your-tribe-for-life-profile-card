@@ -4,6 +4,7 @@
  <div>
     <a href="https://github.com/{sidney.github}">Github</a>
     <a href="https://i-love-web-eqtw.onrender.com">I Love Web</a>
+    <a href="#about-me">About Me</a>
 </div>
 
 <style>
