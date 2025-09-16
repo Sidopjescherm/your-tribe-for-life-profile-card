@@ -10,6 +10,7 @@
 <main>
     <section>
         <img src="https://fdnd.directus.app/assets/{sidney.mugshot}" width="284" height="189" alt="Sidney" />
+        </picture>
 
         <article>
             <h1>{sidney.name}</h1>
