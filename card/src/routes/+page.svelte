@@ -8,8 +8,11 @@
 </script>
 
 <main>
-    <section>
-        <img src="https://fdnd.directus.app/assets/{sidney.mugshot}" width="284" height="189" alt="Sidney" />
+    <section id="profile">
+        <picture>
+            <source type="image/avif" srcset="https://fdnd.directus.app/assets/{sidney.mugshot}"/>
+            <source type="image/webp" srcset="https://fdnd.directus.app/assets/{sidney.mugshot}"/>
+            <img src="https://fdnd.directus.app/assets/{sidney.mugshot}" width="284" height="189" alt="{sidney.name}'s foto" />
         </picture>
 
         <article>
