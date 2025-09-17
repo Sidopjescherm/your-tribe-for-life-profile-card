@@ -43,6 +43,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        gap: 5rem;
     }
 
     section {
@@ -60,8 +61,8 @@
         width: 16em;
     }
 
-
-    /* #profile {
+/* 
+     #profile {
         @supports (position: absolute) {
             position: absolute;
             z-index: 2;
@@ -76,7 +77,7 @@
             top: 2em;
             left: 4em;
         }
-    } */
+    }  */
 
     img {
         clip-path: circle(35%);
