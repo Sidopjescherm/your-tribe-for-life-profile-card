@@ -32,6 +32,6 @@ Deze opdracht is done als:
 - [ ]  Er is geïnventariseerd welke zaken opgenomen worden in het digitale visitekaartje.
 - [ ]  Er is nagedacht over het (her)ontwerp en daarbij zijn variaties geschetst voor layout en visuele hiërarchie. Gemaakte ontwerpkeuzes worden toegelicht.
 - [ ]  Het ontwerp is gerealiseerd met HTML/CSS/JS in Sveltekit. Opgeleverde code voldoet aan de FDND code conventies.
-- [ ]  Het visitekaartje staat op Github en heeft een live url, deployment (CI/CD) is geregeld via Netlify.
-- [ ]  Het project is uitvoerig getest, testresultaten zijn vastgelegd en worden opgevolgd met acties.
+- [x]  Het visitekaartje staat op Github en heeft een live url, deployment (CI/CD) is geregeld via Netlify.
+- [x]  Het project is uitvoerig getest, testresultaten zijn vastgelegd en worden opgevolgd met acties.
 - [ ]  Al voorgaande punten zijn navolgbaar in losse issues in de repository op GitHub.
